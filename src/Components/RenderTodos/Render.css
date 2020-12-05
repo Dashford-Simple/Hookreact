@@ -1,0 +1,20 @@
+.todo{
+            display: flex;
+            justify-content: space-between;
+            background-color: red;
+            margin-top: 2%;
+            border-radius: 20px;
+            height: 80px;
+            padding: 2%;
+            
+        }
+        .todo h3{
+            font-size: 1.6em;
+        }
+        .todo .btns{
+            display: flex;
+            margin-top: 3%;
+        }
+        .active{
+            background-color: green !important;
+        }
